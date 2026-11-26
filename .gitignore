@@ -1,0 +1,7 @@
+/cache/
+/skill-cache/
+/.write-lock/
+/.skill-write-lock/
+/.atlas-write-*/
+/skill-transactions/
+/skill-installs.json

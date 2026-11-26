@@ -1,0 +1,123 @@
+{
+  "schema": 1,
+  "skills": {
+    "banner-design": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/banner-design",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "brand": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/brand",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "council": {
+      "request": "personal/council@1.0.0",
+      "hosts": []
+    },
+    "deploy-to-vercel": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/deploy-to-vercel",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "design": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/design",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "design-system": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/design-system",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "frontend-design": {
+      "request": "https://github.com/anthropics/skills",
+      "hosts": [],
+      "path": "skills/frontend-design",
+      "ref": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba"
+    },
+    "nodejs-cli-best-practices": {
+      "request": "https://github.com/lirantal/nodejs-cli-apps-best-practices",
+      "hosts": [],
+      "path": "skills/nodejs-cli-best-practices",
+      "ref": "6a3735f18eca55a0712aef9d3d6017b6b8346f7f"
+    },
+    "slides": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/slides",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "ui-styling": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/ui-styling",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "ui-ux-pro-max": {
+      "request": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "hosts": [],
+      "path": ".claude/skills/ui-ux-pro-max",
+      "ref": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c"
+    },
+    "unslop": {
+      "request": "https://github.com/cursor/plugins",
+      "hosts": [],
+      "path": "pstack/skills/unslop",
+      "ref": "b1fbf4b60ac6813b4583ccc356850dafcf492665"
+    },
+    "vercel-cli-with-tokens": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/vercel-cli-with-tokens",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "vercel-composition-patterns": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/composition-patterns",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "vercel-optimize": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/vercel-optimize",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "vercel-react-best-practices": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/react-best-practices",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "vercel-react-native-skills": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/react-native-skills",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "vercel-react-view-transitions": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/react-view-transitions",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "web-design-guidelines": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/web-design-guidelines",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    },
+    "writing-guidelines": {
+      "request": "https://github.com/vercel-labs/agent-skills",
+      "hosts": [],
+      "path": "skills/writing-guidelines",
+      "ref": "5a37a6329fbad3666c3207392a6a7c0110e92efb"
+    }
+  }
+}

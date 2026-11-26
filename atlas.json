@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "sources": {
+    "personal": ".atlas/packs"
+  },
+  "packs": {
+    "personal/personal-workflow": {
+      "version": "1.0.0",
+      "sha256": "2d5aa0c86c8d20fa223780b9b7c5cf6b764a2771f5a2d4686c14beb3faf74e71"
+    },
+    "personal/model-routing": {
+      "version": "1.0.0",
+      "sha256": "57d401ed4f65d7ec7037e250c57aacd6b61bf52a2b99d7b1701ddca8169a3a89"
+    }
+  }
+}

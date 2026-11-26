@@ -1,0 +1,145 @@
+{
+  "schema": 1,
+  "skills": {
+    "banner-design": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/banner-design",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "6d6ed49d13f415e03014cbaa7de4076ab5de9d1a4e71aface68783fb219449af",
+      "cache": "a7cf316dc484a9464b93cb7e088a5c0a0083aa3967b0173fe60b2d3cebb626a6",
+      "selection": "3ecfc58e67207ac08435b210b4217d4784d3b777c0fb173d2f6af3f06f44fc87"
+    },
+    "brand": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/brand",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "00fdc491892704adb84f9eb083ae64c404b94fb0ccf0b130d9782248820e4706",
+      "cache": "17e42ed6a5a9094944a1f0d1aa7c62f5fc9b31bfb875043207ca2ccfd27761f2",
+      "selection": "dcc8fe0946771eb1dd71432932d418214b648d2da7e02c2b116f48b9c398feb4"
+    },
+    "council": {
+      "source": "catalog:.atlas/packs:council/skills/council",
+      "revision": "1.0.0",
+      "sha256": "892a00305cc7e18fd3b1b14bc4c5ad4523e2e0dec4e60c71f44b6fea2f1aebb0",
+      "cache": "e0b5f3f8e0d333dc871a51c0772281890ca5c64385d05c21d8160d7d735f843a",
+      "selection": "69a3a60a658fadf2e5821a6e73f892ffca658aaa3d22c7b895157b1218c947e1"
+    },
+    "deploy-to-vercel": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/deploy-to-vercel",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "1d9d2bd02e0d3354dfc88a7cf2e581f7162aa31e6012c05b82bcd21abf7c0bf9",
+      "cache": "c1cfd5d6ec7ad762a406b31c136bb78c5c49590f3617eda2395ae5d921ec3ddf",
+      "selection": "8a1f3be7f8899d479d4ff141793a6847564c60a7be3ff99a7c8225635636cb66"
+    },
+    "design": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/design",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "f7c7d54c3529d0b78c0031008724df4f4ac9a7e4e6fda93471d1b88d21ce2a08",
+      "cache": "385e1e7fa195481342dc89bfdcbef1e1c015e60e6afecae950910a0fafbe7e92",
+      "selection": "e106a836e53e033a98ba9a79a53ef6355f6676d2769e55c0b807b7999145a291"
+    },
+    "design-system": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/design-system",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "47b233fbb7d7d8e4a38dec465649c737c008f49d944430496a6caee1eec53317",
+      "cache": "ef6fb13f5942b6cb2b66d75e512629b78ca64889be5bab30f975e14176f5b50f",
+      "selection": "61b9c6d6e43118c328a1bb1064c0de5c06532c3f76bbca115efe6189801a3006"
+    },
+    "frontend-design": {
+      "source": "github:https://github.com/anthropics/skills:skills/frontend-design",
+      "revision": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sha256": "fef8da340ff72a534f46c959c3f790f171f3aa41b714d216abdb1b686e6dee9a",
+      "cache": "46c39a5b668f71a36ae064ba41f4d3ff0025361d6f4d649938dafe902452d820",
+      "selection": "d8282e5dc3842198b6c6c6494f89a41132dc35de10e52884d46943d970dfe36d"
+    },
+    "nodejs-cli-best-practices": {
+      "source": "github:https://github.com/lirantal/nodejs-cli-apps-best-practices:skills/nodejs-cli-best-practices",
+      "revision": "6a3735f18eca55a0712aef9d3d6017b6b8346f7f",
+      "sha256": "8485c6cc42a30e0477477cfeb63fa2be8925a54292e87c9764b770cc81ff4705",
+      "cache": "21fa8b54ad0080094a7f617cbfba31763be822dabf9744567661f8b2ebca5faf",
+      "selection": "b7f3fedb646e7d2e87470028fdcef2d239a1e3a18a56f631ea87b7a1c1ba2092"
+    },
+    "slides": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/slides",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "49a5d237bf43a6c8785be3020b1b575848df1872e191e3a88a1798e76a97c1ef",
+      "cache": "847eba3080e77289ae73bef8b47d08ed8580a053f16920da73cc86c77fc9afff",
+      "selection": "420ba7218afd86743dd96e4c598f22249ca4b8d701dc2300a9c2ad5076f8e1d3"
+    },
+    "ui-styling": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-styling",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "6d6c0239e8eb191ec0ee9bc461262abdbc072fa955637303cdd9ec22c508dfbd",
+      "cache": "4c6926172ddb23d7fb8a9757754a9d780059f9f312a3db473d77581bb2bba79d",
+      "selection": "4da10a7cf08f443ee5a8bb7222f72981aa5d60d9faadc15ec08bfb4f92f26d07"
+    },
+    "ui-ux-pro-max": {
+      "source": "github:https://github.com/nextlevelbuilder/ui-ux-pro-max-skill:.claude/skills/ui-ux-pro-max",
+      "revision": "b73ee96f8d4ff7bbc279c52dadcd907ffe23629c",
+      "sha256": "e9ab6e2962f9c66c463b4e119703e297f59b19b9476ed944d9705c06eeb06c4d",
+      "cache": "0037b60c1b931630e1814b3c168175c89ce5f8ec8a8b72903975f75d78ee3753",
+      "selection": "ac8e20f64c888eec553ee9625f8c80279aa02d8d8e429770d3506958f1fe9bba"
+    },
+    "unslop": {
+      "source": "github:https://github.com/cursor/plugins:pstack/skills/unslop",
+      "revision": "b1fbf4b60ac6813b4583ccc356850dafcf492665",
+      "sha256": "ebab923c24ce4ae6c095457beaf43bff118c61fb5298981ce7ebc6d00fca404d",
+      "cache": "86483d4520fb188156f10e4cf273d71d8faf33ec534ccd288293142f0ffcfc9e",
+      "selection": "355f6bc6ef39dd39ff457bc58c3f4412bc5c549334f4ad883ec7596f023c6fc3"
+    },
+    "vercel-cli-with-tokens": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/vercel-cli-with-tokens",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "9240ebfb6b4cc5c7cd25d90bc729a3b5baf73de3ff88075dc62390b720c7af4c",
+      "cache": "4759b527576ded4f51c794120dce1fa978069c1ba71d17151a6c8bf8c2d551e9",
+      "selection": "9ca147835a3b040e299fa71f94520eabdf826ff9632d745f92a0942329b38606"
+    },
+    "vercel-composition-patterns": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/composition-patterns",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "71c21d3657a0a728dfb3b2b17ccd21d6596a469cd1801a910ff0426fe3118f23",
+      "cache": "a22e5605a5143d39698ef46abe13b96cfcb84fc974698c1e3c90461d38974705",
+      "selection": "1a416cb37f8699efe831d02acd01e3f122f533578aeec84d16ac51ad482834dc"
+    },
+    "vercel-optimize": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/vercel-optimize",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "b93e5e4a88f74587ea69683a4c9463beec655f40765d6771e0fce442f9fde53f",
+      "cache": "fae3cd45b3f259ae9563ff525d243a7639bde1b5123bb290a411d49dcca095fd",
+      "selection": "3a639e8340b5d74f520e8147041fe5eaccc6c9fceca4043dd90e5997e232d801"
+    },
+    "vercel-react-best-practices": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/react-best-practices",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "e3eb3804ddf728bc32e03a578a2c96409a0861aea53587e8c5c9aa22069f0f57",
+      "cache": "595c5b6331d4a7c550ed017b5f174de8d8859efdbbb4b26b852d06a91b979fb4",
+      "selection": "4caa946b97b1dfa73a3fbeadaa4609eef3f33de7555b6bc2a84aed8241c64a5e"
+    },
+    "vercel-react-native-skills": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/react-native-skills",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "f61ca441f45e9f62dceed8b1712139e251a3cb04acd8acb1423b0de29002e296",
+      "cache": "952063dc28e8716e850940afde5aac6a6099563f740abbaf5f6372f03426aa83",
+      "selection": "1374c673386c5b4468b7d1fa0be70f01246375622012501bf1bd8fde15075e56"
+    },
+    "vercel-react-view-transitions": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/react-view-transitions",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "b0440fb55bf208589219c3fe240e408fc7e5f740aa06b8e90e4a86064d62c273",
+      "cache": "52fbc8b514678c8d12b560f853f2c797be984317796e3d183ba260c20050fa99",
+      "selection": "a2c244cbe13426bc4d0b33d7ea607c7ccc5c526b4c9e1536b718533eece22f15"
+    },
+    "web-design-guidelines": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/web-design-guidelines",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "5800567fc5e4b0facfd0921322fbe1b1b6a5afc47e45d7b9a8149c15cd1b4002",
+      "cache": "9b3ec8193dbf1ac187e387f4b7597cfcbb339ae6e78f6cfbdfb7f239353d3a11",
+      "selection": "6c5b04c3c9d58993a2010993576a50a563ddab4afb62a6e6f6678efd30d7740d"
+    },
+    "writing-guidelines": {
+      "source": "github:https://github.com/vercel-labs/agent-skills:skills/writing-guidelines",
+      "revision": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sha256": "8e67de57e99ba1917f045dc73ffeeac968639108c576aad3e9a6ca12a83e386b",
+      "cache": "2f6a35a0ddbc3f4e7465d5201f023ce00e56ff1dfe4f33c09d449580650ed63a",
+      "selection": "83c8c9931058099390c7c013ca8b21574c846f7cbac96576a2f919ec227b4cb8"
+    }
+  }
+}
