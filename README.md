@@ -46,6 +46,7 @@ atlas sync --scope user
 ```
 
 `atlas hosts --scope user` lists the agent hosts Atlas detected and the file it writes for each.
+
 ## Using this as a template
 
 Fork it, then rewrite the rules as your own. Keep the following in mind.
