@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "name": "model-routing",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "kind": "instructions",
+      "path": "1.0.0.md"
+    }
+  ]
+}

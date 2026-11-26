@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "name": "council",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "kind": "skill",
+      "path": "skills/council"
+    }
+  ]
+}
