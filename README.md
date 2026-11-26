@@ -53,3 +53,7 @@ Fork it, then rewrite the rules as your own. Keep the following in mind.
 - **Rules that should bind every contributor belong in the project.** Put them in the project's `.atlas/rules/` or in a shared pack, not here.
 - **Every rule section ends with a Do and an Avoid example.** Agents apply a rule more reliably when they see the difference.
 - **Keep the always-loaded text short.** Some hosts stop reading instruction files at 24 to 32 KB. Move long procedures into skills, which load only when a task matches.
+
+## License
+
+[MIT](LICENSE). Third-party skills that the profile installs keep their own licenses.
